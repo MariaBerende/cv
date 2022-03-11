@@ -28,7 +28,7 @@ body {
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
-	content: ">";
+	content: "-";
 	font-weight: 800;
 	display: inline-block;
 	width: 1em;
