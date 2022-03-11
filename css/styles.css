@@ -1,20 +1,25 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 /* Styles for the body */
 
 body {
-	font-family:"Alice";
+font-family: 'Playfair Display', serif;
 	color: #202030;
 	background-color: #f8f8fc;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
+h2 {
+	color: #000000
+}
+
 .resume-header {
     background-color: #FFBFCB;
+color: #000000
 }
 
 .resume-main {
@@ -22,8 +27,9 @@ body {
 }
 
 .resume-aside {
-	background-color: #BEFFEC;
+	background-color: #E5B4B2;
 }
+
 
 /* Styles for lists in the document */
 
