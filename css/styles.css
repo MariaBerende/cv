@@ -12,14 +12,6 @@ font-family: 'Playfair Display', serif;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
-
-h2 {
-	color: text-light
-}
 
 .resume-header {
     background-color: #FFBFCB;
